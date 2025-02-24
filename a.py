@@ -8,7 +8,7 @@ from tabulate import tabulate
 TOKEN = "7631824831:AAFkdUijbtm99kDAuFmPo3Wq8EQDMhcE83Y"
 
 def kulanıcılog(bot_message):
-token = "7631824831:AAFkdUijbtm99kDAuFmPo3Wq8EQDMhcE83Y"
+TOKEN = "7631824831:AAFkdUijbtm99kDAuFmPo3Wq8EQDMhcE83Y"
 chat_id = '5327928507'
 api = 'https://api.telegram.org/bot' + token \
 + '/sendMessage?chat_id=' + chat_id + '&parse_mode=Markdown&text=' \
