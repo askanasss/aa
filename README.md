@@ -1,1 +1,2 @@
-# aa
+telethon==1.29.0
+requests==2.31.0
